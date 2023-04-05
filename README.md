@@ -86,7 +86,7 @@ These examples, along with our NVIDIA deep learning software stack, are provided
 ## Time-Series Forecasting
 | Models                                                                                                            | Framework  | AMP  | Multi-GPU   | Multi-Node   | TensorRT | ONNX   | Triton                                                                                           | DLC   | NB  |
 |-------------------------------------------------------------------------------------------------------------------|------------|------|-------------|--------------|----------|--------|--------------------------------------------------------------------------------------------------|-------|-----|
-| [Temporal Fusion Transformer](https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch/Forecasting/TFT) | PyTorch    | Yes  | Yes         | -            | Example | Yes    | [Example](https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch/Forecasting/TFT/triton) | Yes   | -   |
+| [Temporal Fusion Transformer](https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch/Forecasting/TFT) | PyTorch    | Yes  | Yes         | -            | [Example](https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch/Forecasting/TFT/triton) | Yes    | [Example](https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch/Forecasting/TFT/triton) | Yes   | -   |
 
 ## NVIDIA support
 In each of the network READMEs, we indicate the level of support that will be provided. The range is from ongoing updates and improvements to a point-in-time release for thought leadership.
